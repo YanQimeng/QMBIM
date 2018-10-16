@@ -4,8 +4,7 @@
 
 <img src="meiti/erweima.jpg" width="300" height="300" />
 
-<a href="meiti/erweima.jpg">链接元素</a>  
-<a href="www.baidu.com">链接元素</a>
+<a href="meiti/erweima.jpg">可以点击的链接</a>  
 
 接下来我们看一下具体的使用流程
 ### 第一步
