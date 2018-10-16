@@ -3,6 +3,7 @@
 长按下面二维码查看阿尔山项目~
 
 <img src="meiti/erweima.jpg" width="300" height="300" />
+
 <A href="www.baidu.com"><IMG src="meiti/erweima.jpg" border=0 target="_blank" ></A>
 
 接下来我们看一下具体的使用流程
