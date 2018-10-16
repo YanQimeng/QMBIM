@@ -2,7 +2,7 @@
 
 扫面二维码查看阿尔山项目~
 
-<img src="erweima.jpg" width="300" height="300" />
+<img src="meiti/erweima.jpg" width="300" height="300" />
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
