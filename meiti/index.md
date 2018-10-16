@@ -1,6 +1,8 @@
 ## BIM中心 学习专用
 
-You can use the [editor on GitHub](https://github.com/YanQimeng/QMBIM/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+扫面二维码查看阿尔山项目~
+
+<img src="erweima.jpg" width="300" height="300" />
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
