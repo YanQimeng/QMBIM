@@ -1,6 +1,6 @@
 ## BIM中心 学习专用
 
-扫面二维码查看阿尔山项目~
+长按下面二维码查看阿尔山项目~
 
 <img src="meiti/erweima.jpg" width="300" height="300" />
 
