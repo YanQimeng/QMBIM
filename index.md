@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## BIM中心 学习专用
 
 You can use the [editor on GitHub](https://github.com/YanQimeng/QMBIM/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
