@@ -7,14 +7,15 @@
 接下来我们看一下具体的使用流程
 ### 第一步
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+根据图纸，在revit中建立模型
 
 ### 第二步
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+将模型导入lumion中，添加特效灯光等，制作360°全景图片
+
 ### 第三步
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+在网站上制作以上网络文件
 
 ```markdown
 Syntax highlighted code block
