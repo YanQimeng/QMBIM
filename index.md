@@ -7,7 +7,10 @@
 接下来我们看一下具体的使用流程
 ### 第一步
 
-我们需要以下软件~这不是单一的一个软件可以完成的~
+我们需要以下软件~
+
+要完成这样的作品，不是单一的一个软件可以完成的~
+
 1.建模软件：revit
 链接：https://pan.baidu.com/s/1LnfR7bCMEGpWB5OpmI36yA 
 提取码：5g7a
@@ -16,6 +19,10 @@
 2.渲染软件lumion8.0（渲染效果比lumion6.0好很多）
 链接：https://pan.baidu.com/s/1qqA8jAD0myrU60dlDHUR8g 
 提取码：ah6r
+
+在lumion中制作全景图片，完成后可以直接在建E网中使用
+
+在建E网中制作以上作品
 
 ### 第二步
 
