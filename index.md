@@ -35,11 +35,17 @@
 
 哒哒哒哒哒，假装我还在写
 
-	<audio autoplay="autoplay" controls="controls"loop="loop" preload="auto"
-            	src="meiti/流浪.mp3">
-      		
-	</audio>
-
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0     Transitional//EN" "meiti/流浪.mp3">    
+    <html     xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+    <meta http-equiv="Content-Type"     content="text/html; charset=gb2312" />
+    <title>无标题文档</title>
+    </head>
+     
+    <body>
+    <bgsound     src="meiti/流浪.mp3" autostart=true     loop=infinite>
+    </body>
+    </html>
 
 
 ```markdown
