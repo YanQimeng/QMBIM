@@ -35,6 +35,13 @@
 
 哒哒哒哒哒，假装我还在写
 
+	<audio autoplay="autoplay" controls="controls"loop="loop" preload="auto"
+            	src="meiti/流浪.mp3">
+      		
+	</audio>
+
+
+
 ```markdown
 Syntax highlighted code block
 
