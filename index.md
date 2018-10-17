@@ -12,11 +12,14 @@
 要完成这样的作品，不是单一的一个软件可以完成的~
 
 1.建模软件：revit
+
 链接：https://pan.baidu.com/s/1LnfR7bCMEGpWB5OpmI36yA 
 提取码：5g7a
 
 建模完成后需要渲染软件，使得我们的模型更加接近现实
+
 2.渲染软件lumion8.0（渲染效果比lumion6.0好很多）
+
 链接：https://pan.baidu.com/s/1qqA8jAD0myrU60dlDHUR8g 
 提取码：ah6r
 
