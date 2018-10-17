@@ -35,18 +35,19 @@
 
 哒哒哒哒哒，假装我还在写
 
- <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0     Transitional//EN" "meiti/流浪.mp3">    
-    <html     xmlns="http://www.w3.org/1999/xhtml">
-    <head>
-    <meta http-equiv="Content-Type"     content="text/html; charset=gb2312" />
-    <title>无标题文档</title>
-    </head>
-     
-    <body>
-    <bgsound     src="meiti/流浪.mp3" autostart=true     loop=infinite>
-    </body>
-    </html>
+<head>
+ <style type="text/css">
 
+ body {background-color: yellow} 定义网页背景色为黄色；
+
+ h1 {background-color: #00ff00} 定义h1标签背景色为#00ff00；
+
+ h2 {background-color: transparent} 定义h2标签背景色为透明；
+
+ p {background-color: rgb(250,0,255)} 定义p标签背景色为rgb值；
+
+ p.no2 {background-color: gray; padding: 20px;}
+</head>
 
 ```markdown
 Syntax highlighted code block
