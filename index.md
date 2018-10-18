@@ -47,7 +47,6 @@
  p {background-color: rgb(250,0,255)} 定义p标签背景色为rgb值；
 
  p.no2 {background-color: gray; padding: 20px;}
-</head>
 
 以下是一些其他或许会用到的软件
 
@@ -123,3 +122,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</head>
