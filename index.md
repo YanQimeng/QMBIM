@@ -38,7 +38,7 @@
 <head>
  <style type="text/css">
 
- body {background-color: yellow} 定义网页背景色为黄色；
+ body {background-color: gray} 定义网页背景色为黄色；
 
  h1 {background-color: #00ff00} 定义h1标签背景色为#00ff00；
 
