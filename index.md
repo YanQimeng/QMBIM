@@ -49,24 +49,6 @@
  p.no2 {background-color: gray; padding: 20px;}
 </head>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 以下是一些其他或许会用到的软件
 
 草图大师2017
