@@ -129,6 +129,10 @@ Adobe Photoshop CS6 蓝色戈壁特别版V1210.7z(1)
 链接：https://pan.baidu.com/s/1nvJKUy0zvw1fMYz_B1WZqQ 
 提取码：cyva
 
+pr音乐鼓点节拍插件BeatEdit 1.0.9（汉化版）
+链接：https://pan.baidu.com/s/1G-RDSt5QHsDUBWEnoM5vAA 
+提取码：7kac
+
 
 ### Jekyll Themes
 
