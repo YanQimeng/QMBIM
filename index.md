@@ -1,8 +1,6 @@
 ## --学习专用--学习完请各位在24小时内删除，如用于商业侵犯版权与闫启蒙无关~
 
-<video src="01.mp4" controls autoplay loop muted preload="auto" poster="LINE#3.gif" >HTML5 Video is required for this example</video>
-
-
+<video src="meiti/shiwai.mp4" controls autoplay loop muted preload="auto" poster="meiti/shiwaitupian.jpg" >HTML5 Video is required for this example</video>
 
 长按下面二维码查看阿尔山项目~
 
