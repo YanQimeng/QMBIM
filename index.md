@@ -9,6 +9,10 @@
 
 <video src="meiti/shiwai.mp4" width="300" height="300" controls autoplay loop muted preload="auto" poster="meiti/shiwaitupian.jpg" >HTML5 Video is required for this example</video>
 
+主会场大厅漫游
+
+<video src="meiti/dating.mp4" width="300" height="300" controls autoplay loop muted preload="auto" poster="meiti/shiwaitupian.jpg" >HTML5 Video is required for this example</video>
+
 接下来我们看一下具体的使用流程
 ### 第一步，准备工作
 
