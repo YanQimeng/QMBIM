@@ -1,10 +1,11 @@
 ## --学习专用--学习完请各位在24小时内删除，如用于商业侵犯版权与闫启蒙无关~
 
-<video src="meiti/shiwai.mp4" controls autoplay loop muted preload="auto" poster="meiti/shiwaitupian.jpg" >HTML5 Video is required for this example</video>
 
 长按下面二维码查看阿尔山项目~
 
 <img src="meiti/erweima.jpg" width="300" height="300" />
+
+<video src="meiti/shiwai.mp4" controls autoplay loop muted preload="auto" poster="meiti/shiwaitupian.jpg" >
 
 接下来我们看一下具体的使用流程
 ### 第一步，准备工作
