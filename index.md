@@ -34,8 +34,6 @@
 <video src="meiti/fabuting.mp4" width="300" height="300" controls autoplay loop muted preload="none" poster="meiti/shiwaitupian.jpg" >HTML5 Video is required for this example</video>
 
 
-<a href="http://www.baidu.com">链接百度</a>
-
 接下来我们看一下具体的使用流程
 ### 第一步，准备工作
 
@@ -45,7 +43,7 @@
 
 1.建模软件：revit
 
-<a href="https://pan.baidu.com/s/1LnfR7bCMEGpWB5OpmI36yA">百度网盘链接地址</a>
+<a href="https://pan.baidu.com/s/1LnfR7bCMEGpWB5OpmI36yA">revit百度网盘链接地址</a>
 提取码：5g7a
 
 建模完成后需要渲染软件，使得我们的模型更加接近现实
@@ -67,67 +65,67 @@
 以下是一些其他或许会用到的软件
 
 草图大师2017
-链接：https://pan.baidu.com/s/1zge7uxuh5CCiZ6mcXeEFiQ 
+<a href="https://pan.baidu.com/s/1zge7uxuh5CCiZ6mcXeEFiQ">草图大师百度网盘链接地址</a>
 提取码：lxwi
 
 Revit2014-2018安装包
-链接：https://pan.baidu.com/s/1aa7gXf6qfIQPL74xRSR34Q 
+<a href="https://pan.baidu.com/s/1aa7gXf6qfIQPL74xRSR34Q">Revit2014-2018安装包百度网盘链接地址</a>
 提取码：iwzm
 
 Premiere Pro CC 2017 v11.0 Win64
-链接：https://pan.baidu.com/s/1uR65ov991uJeaI7vUHe5hg 
+<a href="https://pan.baidu.com/s/1uR65ov991uJeaI7vUHe5hg">Premiere Pro CC 2017百度网盘链接地址</a>
 提取码：h5yi
 
 lumion8.0
-链接：https://pan.baidu.com/s/19vcKLDypI_tPQ_RHdIrysg 
+<a href="https://pan.baidu.com/s/19vcKLDypI_tPQ_RHdIrysg">lumion8.0百度网盘链接地址</a>
 提取码：glvw
 
 lumion for revit插件
-链接：https://pan.baidu.com/s/1lzFZdam6Y9kpq-Bu9HIP8w 
+<a href="https://pan.baidu.com/s/1lzFZdam6Y9kpq-Bu9HIP8w">lumion for revit百度网盘链接地址</a>
 提取码：syc4
 
 Autodesk 3ds Max 2017
-链接：https://pan.baidu.com/s/1A1zv9zgxKNpbFQOyQ4NFHA 
+<a href="https://pan.baidu.com/s/1A1zv9zgxKNpbFQOyQ4NFHA">Autodesk 3ds Max 2017百度网盘链接地址</a>
 提取码：7cho
 
 AutoCAD_2018 64bit
-链接：https://pan.baidu.com/s/1g_Gf2BVnhH9rWHxew-yoEQ 
+<a href="https://pan.baidu.com/s/1g_Gf2BVnhH9rWHxew-yoEQ">AutoCAD_2018 64bit百度网盘链接地址</a>
 提取码：n8nu
 
 3dmax2014+vr2.4+vr3.0+注册机
-链接：https://pan.baidu.com/s/1exjR4BU3kKC9eeSEZv1pCA 
+<a href="https://pan.baidu.com/s/1exjR4BU3kKC9eeSEZv1pCA">3dmax2014百度网盘链接地址</a>
 提取码：l3zi
 
 2018Adobe 软件 PS2018+AI2018等.
-链接：https://pan.baidu.com/s/1OBibkf-uah_ip1CGC06kMw 
+<a href="https://pan.baidu.com/s/1OBibkf-uah_ip1CGC06kMw">2018Adobe 软件百度网盘链接地址</a>
 提取码：vkv1
 
 revit插件 Tekla To Revit2015、2016
-链接：https://pan.baidu.com/s/1yuLbq_7WYIK1xMxdJ2Mo-A 
+<a href="https://pan.baidu.com/s/1yuLbq_7WYIK1xMxdJ2Mo-A">Tekla To Revit2015、2016百度网盘链接地址</a>
 提取码：rz7d
 
 Tekla_2017-64位
-链接：https://pan.baidu.com/s/18YXGJ2e-yeeh9hdmPm_umA 
+<a href="https://pan.baidu.com/s/18YXGJ2e-yeeh9hdmPm_umA">Tekla_2017-64位百度网盘链接地址</a>
 提取码：terr
 
 Autodesk NavisWorks2017
-链接：https://pan.baidu.com/s/1AMNbBpCiqnVR15c3vzoxiQ 
+<a href="https://pan.baidu.com/s/1AMNbBpCiqnVR15c3vzoxiQ">Autodesk NavisWorks2017百度网盘链接地址</a>
 提取码：os33
 
 Autodesk Navisworks 2018
-链接：https://pan.baidu.com/s/1R0LGDVY5TLqa7RVJEfx92Q 
+<a href="https://pan.baidu.com/s/1R0LGDVY5TLqa7RVJEfx92Q">Autodesk Navisworks 2018百度网盘链接地址</a>
 提取码：lmh2
 
 Autodesk Navisworks 2016
-链接：https://pan.baidu.com/s/17YjV9f-R9LbKtAIHJ1RgcQ 
+<a href="https://pan.baidu.com/s/17YjV9f-R9LbKtAIHJ1RgcQ">Autodesk Navisworks 2016百度网盘链接地址</a>
 提取码：z8l5
 
 Adobe Photoshop CS6 蓝色戈壁特别版V1210.7z(1)
-链接：https://pan.baidu.com/s/1nvJKUy0zvw1fMYz_B1WZqQ 
+<a href="https://pan.baidu.com/s/1nvJKUy0zvw1fMYz_B1WZqQ">Adobe Photoshop CS6百度网盘链接地址</a>
 提取码：cyva
 
 pr音乐鼓点节拍插件BeatEdit 1.0.9（汉化版）
-链接：https://pan.baidu.com/s/1G-RDSt5QHsDUBWEnoM5vAA 
+<a href="https://pan.baidu.com/s/1G-RDSt5QHsDUBWEnoM5vAA">pr音乐鼓点节拍插件BeatEdit 1.0.9（汉化版）百度网盘链接地址</a>
 提取码：7kac
 
 
