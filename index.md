@@ -52,9 +52,7 @@
 链接：https://pan.baidu.com/s/1qqA8jAD0myrU60dlDHUR8g 
 提取码：ah6r
 
-在lumion中制作全景图片，完成后可以直接在建E网中使用
-
-在建E网中制作以上作品
+<a href="http://www.baidu.com">链接百度</a>
 
 ### 第二步实际操作
 
