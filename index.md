@@ -45,14 +45,14 @@
 
 1.建模软件：revit
 
-链接：https://pan.baidu.com/s/1LnfR7bCMEGpWB5OpmI36yA 
+<a href="https://pan.baidu.com/s/1LnfR7bCMEGpWB5OpmI36yA">百度网盘链接地址</a>
 提取码：5g7a
 
 建模完成后需要渲染软件，使得我们的模型更加接近现实
 
 2.渲染软件lumion8.0（渲染效果比lumion6.0好很多）
 
-链接：https://pan.baidu.com/s/1qqA8jAD0myrU60dlDHUR8g 
+<a href="https://pan.baidu.com/s/1qqA8jAD0myrU60dlDHUR8g">lumion百度网盘链接地址</a>
 提取码：ah6r
 
 ### 第二步实际操作
