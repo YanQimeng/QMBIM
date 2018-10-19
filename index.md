@@ -33,6 +33,9 @@
 
 <video src="meiti/fabuting.mp4" width="300" height="300" controls autoplay loop muted preload="none" poster="meiti/shiwaitupian.jpg" >HTML5 Video is required for this example</video>
 
+
+<a href="http://www.baidu.com">链接百度</a>
+
 接下来我们看一下具体的使用流程
 ### 第一步，准备工作
 
@@ -51,8 +54,6 @@
 
 链接：https://pan.baidu.com/s/1qqA8jAD0myrU60dlDHUR8g 
 提取码：ah6r
-
-<a href="http://www.baidu.com">链接百度</a>
 
 ### 第二步实际操作
 
