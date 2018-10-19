@@ -3,6 +3,7 @@
 长按下面二维码查看阿尔山项目~
 
 <img src="meiti/erweima.jpg" width="300" height="300" />
+<img src="meiti/erweima.jpg" width="300" height="300" />
 
 接下来我们看一下具体的使用流程
 ### 第一步，准备工作
