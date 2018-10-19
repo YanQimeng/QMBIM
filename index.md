@@ -13,6 +13,26 @@
 
 <video src="meiti/dating.mp4" width="300" height="300" controls autoplay loop muted preload="auto" poster="meiti/shiwaitupian.jpg" >HTML5 Video is required for this example</video>
 
+主会场一层会见厅漫游
+
+<video src="meiti/yicenghuijianting.mp4" width="300" height="300" controls autoplay loop muted preload="auto" poster="meiti/shiwaitupian.jpg" >HTML5 Video is required for this example</video>
+
+主会场演员排练室漫游
+
+<video src="meiti/yuanyuanpailianshi.mp4" width="300" height="300" controls autoplay loop muted preload="auto" poster="meiti/shiwaitupian.jpg" >HTML5 Video is required for this example</video>
+
+主会场下沉广场漫游
+
+<video src="meiti/xiachenguangchang.mp4" width="300" height="300" controls autoplay loop muted preload="auto" poster="meiti/shiwaitupian.jpg" >HTML5 Video is required for this example</video>
+
+主会场地下一层卫生间漫游
+
+<video src="meiti/dixiayicengweishengjian.mp4" width="300" height="300" controls autoplay loop muted preload="auto" poster="meiti/shiwaitupian.jpg" >HTML5 Video is required for this example</video>
+
+发布厅漫游
+
+<video src="meiti/fabuting.mp4" width="300" height="300" controls autoplay loop muted preload="auto" poster="meiti/shiwaitupian.jpg" >HTML5 Video is required for this example</video>
+
 接下来我们看一下具体的使用流程
 ### 第一步，准备工作
 
