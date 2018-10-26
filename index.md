@@ -41,14 +41,14 @@
 
 要完成这样的作品，不是<font color="red">单一的</font>一个软件可以完成的~
 
-<em><font color="red">1.建模软件：revit</font></em>
+1.建模软件：<u><em><font color="red">revit</font></em></u>
 
 <a href="https://pan.baidu.com/s/1LnfR7bCMEGpWB5OpmI36yA">revit百度网盘链接地址</a>
 提取码：5g7a
 
 建模完成后需要渲染软件，使得我们的模型更加接近现实
 
-2.渲染软件lumion8.0（渲染效果比lumion6.0好很多）
+2.渲染软件:<u><em><font color="red">lumion8.0</font></em></u>（渲染效果比lumion6.0好很多）
 
 <a href="https://pan.baidu.com/s/1qqA8jAD0myrU60dlDHUR8g">lumion百度网盘链接地址</a>
 提取码：ah6r
