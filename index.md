@@ -33,15 +33,15 @@
 
 <video src="meiti/fabuting.mp4" width="300" height="300" controls autoplay loop muted preload="none" poster="meiti/shiwaitupian.jpg" >HTML5 Video is required for this example</video>
 
+接下来我们看一下具体的制作步骤
 
-接下来我们看一下具体的使用流程
 ### 第一步，准备工作
 
 我们需要以下软件~
 
 要完成这样的作品，不是<font color="red">单一的</font>一个软件可以完成的~
 
-1.建模软件：revit
+1.建模软件：<em><font color="red">revit</font></em>
 
 <a href="https://pan.baidu.com/s/1LnfR7bCMEGpWB5OpmI36yA">revit百度网盘链接地址</a>
 提取码：5g7a
