@@ -41,7 +41,7 @@
 
 要完成这样的作品，不是<font color="red">单一的</font>一个软件可以完成的~
 
-1.建模软件：<em><font color="red">revit</font></em>
+<em><font color="red">1.建模软件：revit</font></em>
 
 <a href="https://pan.baidu.com/s/1LnfR7bCMEGpWB5OpmI36yA">revit百度网盘链接地址</a>
 提取码：5g7a
