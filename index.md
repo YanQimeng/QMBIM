@@ -35,7 +35,7 @@
 
 接下来我们看一下具体的制作步骤
 
-<img src="meiti/Summer_13.gif" width="300" height="80" />
+<img src="meiti/Summer_13.gif" width="300" height="50" />
 
 ### 第一步，准备工作
 
