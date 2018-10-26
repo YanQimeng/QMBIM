@@ -122,16 +122,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-<head>
- <style type="text/css">
+<body background="meiti/bu.jpg">
 
- body {background-color: gray} 定义网页背景色为黄色；
-
- h1 {background-color: #00ff00} 定义h1标签背景色为#00ff00；
-
- h2 {background-color: transparent} 定义h2标签背景色为透明；
-
- p {background-color: rgb(250,0,255)} 定义p标签背景色为rgb值；
-
- p.no2 {background-color: gray; padding: 20px;}
-</head>
+</body>
