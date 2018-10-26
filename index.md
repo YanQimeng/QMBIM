@@ -1,7 +1,7 @@
 ## --学习专用--学习完请各位在24小时内删除，如用于商业侵犯版权与闫启蒙无关~
 
 
-长按下面二维码输入 <b>666666<b><br/> 查看阿尔山项目~
+长按下面二维码输入 <font color="red"><b>666666</b></font> 查看此项目~
 
 <img src="meiti/erweima.jpg" width="300" height="300" />
 
@@ -33,9 +33,9 @@
 
 <video src="meiti/fabuting.mp4" width="300" height="300" controls poster="meiti/fabuting.jpg" >HTML5 Video is required for this example</video>
 
-接下来我们看一下具体的制作步骤
-
 <img src="meiti/Summer_13.gif" width="300" height="50" />
+
+<font color="green">接下来我们看一下具体的制作步骤</font>
 
 ### 第一步，准备工作
 
