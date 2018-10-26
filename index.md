@@ -7,7 +7,7 @@
 
 外部环视
 
-<video src="meiti/shiwai.mp4" width="300" height="300" controls autoplay loop muted preload="none" poster="meiti/shiwaitupian.jpg" >HTML5 Video is required for this example</video>
+<video src="meiti/shiwai.mp4" width="300" height="300" controls poster="meiti/shiwaitupian.jpg" >HTML5 Video is required for this example</video>
 
 主会场大厅漫游
 
