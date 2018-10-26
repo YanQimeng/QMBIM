@@ -1,3 +1,7 @@
+<html>
+  
+<body background="meiti/bu.jpg">
+
 ## --学习专用--学习完请各位在24小时内删除，如用于商业侵犯版权与闫启蒙无关~
 
 
@@ -122,6 +126,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-<body background="meiti/bu.jpg">
 
 </body>
+
+</html>
