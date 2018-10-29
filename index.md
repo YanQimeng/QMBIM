@@ -1,18 +1,11 @@
 <html>
 ## --学习专用--学习完请各位在24小时内删除，如用于商业侵犯版权与闫启蒙无关<br/>
 <font color="red"><b>闫启蒙：13171024224（微信同号）</b></font><br/>
-<body bgcolor="#d0d0d0">
-
 长按下面二维码输入 <font color="red"><b>666666</b></font> 查看此项目~<br/>
-
 <img src="meiti/erweima.jpg" width="300" height="300" /><br/>
-
 外部环视<br/>
-
 <video src="meiti/shiwai.mp4" width="300" height="300" controls poster="meiti/shiwaitupian.jpg" >HTML5 Video is required for this example</video><br/>
-
 主会场大厅漫游<br/>
-
 <video src="meiti/dating.mp4" width="300" height="300" controls poster="meiti/shiwaitupian.jpg" >HTML5 Video is required for this example</video><br/>
 
 主会场一层会见厅漫游<br/>
@@ -116,5 +109,6 @@
 
 <a href="https://pan.baidu.com/s/1G-RDSt5QHsDUBWEnoM5vAA">pr音乐鼓点节拍插件BeatEdit 1.0.9（汉化版）百度网盘链接地址</a><br/>
 提取码：7kac<br/>
+<body bgcolor="#d0d0d0">
 </body>
 </html>
