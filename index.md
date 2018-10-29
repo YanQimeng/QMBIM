@@ -1,6 +1,6 @@
 ## --学习专用--学习完请各位在24小时内删除，如用于商业侵犯版权与闫启蒙无关
 <font color="red"><b>闫启蒙：13171024224（微信同号）</b></font>
-
+<body bgcolor="#d0d0d0">
 
 长按下面二维码输入 <font color="red"><b>666666</b></font> 查看此项目~
 
@@ -115,8 +115,7 @@
 
 <a href="https://pan.baidu.com/s/1G-RDSt5QHsDUBWEnoM5vAA">pr音乐鼓点节拍插件BeatEdit 1.0.9（汉化版）百度网盘链接地址</a>
 提取码：7kac
-
-<title>我是标题么<title>
+</body>
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YanQimeng/QMBIM/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
