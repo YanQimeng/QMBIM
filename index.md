@@ -1,68 +1,68 @@
 ## --学习专用--学习完请各位在24小时内删除，如用于商业侵犯版权与闫启蒙无关<hr/>
-<font color="red"><b>闫启蒙：13171024224（微信同号）</b></font><hr/>
+<font color="red"><b>闫启蒙：13171024224（微信同号）</b></font><br/>
 <body bgcolor="#d0d0d0">
 
-长按下面二维码输入 <font color="red"><b>666666</b></font> 查看此项目~<hr/>
+长按下面二维码输入 <font color="red"><b>666666</b></font> 查看此项目~<br/>
 
-<img src="meiti/erweima.jpg" width="300" height="300" /><hr/>
+<img src="meiti/erweima.jpg" width="300" height="300" /><br/>
 
-外部环视<hr/>
+外部环视<br/>
 
-<video src="meiti/shiwai.mp4" width="300" height="300" controls poster="meiti/shiwaitupian.jpg" >HTML5 Video is required for this example</video><hr/>
+<video src="meiti/shiwai.mp4" width="300" height="300" controls poster="meiti/shiwaitupian.jpg" >HTML5 Video is required for this example</video><br/>
 
-主会场大厅漫游<hr/>
+主会场大厅漫游<br/>
 
-<video src="meiti/dating.mp4" width="300" height="300" controls poster="meiti/shiwaitupian.jpg" >HTML5 Video is required for this example</video><hr/>
+<video src="meiti/dating.mp4" width="300" height="300" controls poster="meiti/shiwaitupian.jpg" >HTML5 Video is required for this example</video><br/>
 
-主会场一层会见厅漫游<hr/>
+主会场一层会见厅漫游<br/>
 
-<video src="meiti/yicenghuijianting.mp4" width="300" height="300" controls poster="meiti/shiwaitupian.jpg" >HTML5 Video is required for this example</video><hr/>
+<video src="meiti/yicenghuijianting.mp4" width="300" height="300" controls poster="meiti/shiwaitupian.jpg" >HTML5 Video is required for this example</video><br/>
 
-主会场演员排练室漫游<hr/>
+主会场演员排练室漫游<br/>
 
-<video src="meiti/yuanyuanpailianshi.mp4" width="300" height="300" controls poster="meiti/yuanyuanpailianshi.jpg" >HTML5 Video is required for this example</video><hr/>
+<video src="meiti/yuanyuanpailianshi.mp4" width="300" height="300" controls poster="meiti/yuanyuanpailianshi.jpg" >HTML5 Video is required for this example</video><br/>
 
-主会场下沉广场漫游<hr/>
+主会场下沉广场漫游<br/>
 
-<video src="meiti/xiachenguangchang.mp4" width="300" height="300" controls poster="meiti/shiwaitupian.jpg" >HTML5 Video is required for this example</video><hr/>
+<video src="meiti/xiachenguangchang.mp4" width="300" height="300" controls poster="meiti/shiwaitupian.jpg" >HTML5 Video is required for this example</video><br/>
 
-主会场地下一层卫生间漫游<hr/>
+主会场地下一层卫生间漫游<br/>
 
-<video src="meiti/dixiayicengweishengjian.mp4" width="300" height="300" controls poster="meiti/dixiayicengweishengjian.jpg" >HTML5 Video is required for this example</video><hr/>
+<video src="meiti/dixiayicengweishengjian.mp4" width="300" height="300" controls poster="meiti/dixiayicengweishengjian.jpg" >HTML5 Video is required for this example</video><br/>
 
-发布厅漫游<hr/>
+发布厅漫游<br/>
 
-<video src="meiti/fabuting.mp4" width="300" height="300" controls poster="meiti/fabuting.jpg" >HTML5 Video is required for this example</video><hr/>
+<video src="meiti/fabuting.mp4" width="300" height="300" controls poster="meiti/fabuting.jpg" >HTML5 Video is required for this example</video><br/>
 
-<img src="meiti/Summer_13.gif" width="300" height="50" /><hr/>
+<img src="meiti/Summer_13.gif" width="300" height="50" /><br/>
 
-<font color="green">接下来我们看一下具体的制作步骤</font><hr/>
+<font color="green">接下来我们看一下具体的制作步骤</font><br/>
 
-### 第一步，准备工作<hr/>
+### 第一步，准备工作<br/>
 
-我们需要以下软件~<hr/>
+我们需要以下软件~<br/>
 
-要完成这样的作品，不是<font color="red">单一的</font>一个软件可以完成的~<hr/>
+要完成这样的作品，不是<font color="red">单一的</font>一个软件可以完成的~<br/>
 
-1.建模软件：<u><em><font color="red">revit</font></em></u><hr/>
+1.建模软件：<u><em><font color="red">revit</font></em></u><br/>
 
-<a href="https://pan.baidu.com/s/1LnfR7bCMEGpWB5OpmI36yA">revit百度网盘链接地址</a><hr/>
-提取码：5g7a<hr/>
+<a href="https://pan.baidu.com/s/1LnfR7bCMEGpWB5OpmI36yA">revit百度网盘链接地址</a><br/>
+提取码：5g7a<br/>
 
-建模完成后需要渲染软件，使得我们的模型更加接近现实<hr/>
+建模完成后需要渲染软件，使得我们的模型更加接近现实<br/>
 
-2.渲染软件:<u><em><font color="red">lumion8.0</font></em></u>（渲染效果比lumion6.0好很多）<hr/>
+2.渲染软件:<u><em><font color="red">lumion8.0</font></em></u>（渲染效果比lumion6.0好很多）<br/>
 
-<a href="https://pan.baidu.com/s/1qqA8jAD0myrU60dlDHUR8g">lumion百度网盘链接地址</a><hr/>
-提取码：ah6r<hr/>
+<a href="https://pan.baidu.com/s/1qqA8jAD0myrU60dlDHUR8g">lumion百度网盘链接地址</a><br/>
+提取码：ah6r<br/>
 
-### 第二步实际操作<hr/>
+### 第二步实际操作<br/>
 
-详细操作步骤等等，假装我在写~<hr/>
+详细操作步骤等等，假装我在写~<br/>
 
-### 第三步注意事项<hr/>
+### 第三步注意事项<br/>
 
-哒哒哒哒哒，假装我还在写<hr/>
+哒哒哒哒哒，假装我还在写<br/>
 
 <hr/>
 
