@@ -3,9 +3,9 @@
 <body bgcolor="gray">
 
 <p>
-<font color="blue"><em>--学习专用--</em></font><br/>
+<font color="blue" size="7"><em>--学习专用--</em></font><br/>
  学习完请各位在24小时内删除，如用于商业侵犯版权与闫启蒙无关<br/>
-<font color="red"><b>闫启蒙：13171024224（微信同号）</b></font><br/>
+<font color="red" size="5"><b>闫启蒙：13171024224（微信同号）</b></font><br/>
 长按下面二维码输入 <font color="red"><b>666666</b></font> 查看此项目~<br/>
 <img src="meiti/erweima.jpg" width="300" height="300" /><br/>
 外部环视<br/>
