@@ -1,6 +1,6 @@
 <html>
   
-  <body bgcolor="#d0d0d0">
+  <body bgcolor="gray">
   
   <p>
 --学习专用--学习完请各位在24小时内删除，如用于商业侵犯版权与闫启蒙无关<br/>
