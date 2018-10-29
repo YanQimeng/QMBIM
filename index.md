@@ -23,7 +23,7 @@
 发布厅漫游<br/>
 <video src="meiti/fabuting.mp4" width="300" height="300" controls poster="meiti/fabuting.jpg" >HTML5 Video is required for this example</video><br/>
 <img src="meiti/Summer_13.gif" width="300" height="50" /><br/>
-<font color="green">接下来我们看一下具体的制作步骤</font><br/>
+<font color="green" size="4">接下来我们看一下具体的制作步骤</font><br/>
 ### 第一步，准备工作<br/>
 我们需要以下软件~<br/>
 </p>
