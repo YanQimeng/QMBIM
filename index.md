@@ -46,7 +46,7 @@
 提取码：jzso<br/> 
 <a href="https://pan.baidu.com/s/1gklo8Lo6zbGinyrlG1O3Tg">无广告小巧视频播放器PotPlayer</a><br/>
 提取码：rrog<br/> 
- <a href="https://pan.baidu.com/s/1CyELaa5f1WXF6sz3hgq_vg">无广告小巧视频播放器PotPlayer</a><br/>
+ <a href="https://pan.baidu.com/s/1CyELaa5f1WXF6sz3hgq_vg">思维导图xmind-pro8</a><br/>
 提取码：bw5l<br/> 
 
 
