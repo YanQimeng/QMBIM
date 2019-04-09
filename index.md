@@ -7,12 +7,14 @@
  学习完请各位在24小时内删除，如用于商业侵犯版权与闫启蒙无关<br/>
 <font color="red" size="5"><b>闫启蒙：13171024224（微信同号）</b></font><br/>
 <img src="meiti/Summer_13.gif" width="300" height="50" /><br/>
-以下是以后从事BIM工作中或许会用到的软件<br/>
+从事BIM工作中会用到的软件<br/>
  <font color="red" size="3"><b>建模软件</b></font><br/>
 <a href="https://pan.baidu.com/s/1g_Gf2BVnhH9rWHxew-yoEQ">AutoCAD_2018 64bit百度网盘链接地址</a><br/>
 提取码：n8nu<br/>
 <a href="https://pan.baidu.com/s/1aa7gXf6qfIQPL74xRSR34Q">Revit2014-2018安装包百度网盘链接地址</a><br/>
 提取码：iwzm<br/>
+ <a href="http://www.hwbim.com/product/modeling4jianzhu">Revit红瓦插件</a><br/>
+由于插件更新速度快，故此为插件官网，直接下载即可<br/> 
  <a href="https://pan.baidu.com/s/1zge7uxuh5CCiZ6mcXeEFiQ">草图大师百度网盘链接地址</a><br/>
 提取码：lxwi<br/>
  <a href="https://pan.baidu.com/s/1A1zv9zgxKNpbFQOyQ4NFHA">Autodesk 3ds Max 2017百度网盘链接地址</a><br/>
