@@ -39,6 +39,17 @@
 提取码：vkv1<br/>
 <a href="https://pan.baidu.com/s/1nvJKUy0zvw1fMYz_B1WZqQ">Adobe Photoshop CS6精简版百度网盘链接地址</a><br/>
 提取码：cyva<br/>
+   <font color="red" size="3"><b>实用小工具</b></font><br/>
+  <a href="https://pan.baidu.com/s/175Ufbomo9kK8u4djI--DMw">CAD插件 贱人工具箱</a><br/>
+提取码：h190<br/> 
+  <a href="https://pan.baidu.com/s/1GN0z5q36RVR5E4QQx8UpZg">CAD图纸转T3小工具</a><br/>
+提取码：jzso<br/> 
+<a href="https://pan.baidu.com/s/1gklo8Lo6zbGinyrlG1O3Tg">无广告小巧视频播放器PotPlayer</a><br/>
+提取码：rrog<br/> 
+ <a href="https://pan.baidu.com/s/1CyELaa5f1WXF6sz3hgq_vg">无广告小巧视频播放器PotPlayer</a><br/>
+提取码：bw5l<br/> 
+
+
 </p>
 
 </body>
